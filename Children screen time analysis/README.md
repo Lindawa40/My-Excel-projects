@@ -25,7 +25,7 @@ The dataset reflects realistic behavior patterns, such as:
 - Are there gender-based variations in screen time?
 
 ## 💡 Dashboard Preview
-![Image](My-Excel-projects/Children screen time analysis/Images/Dashboard overview.PNG)
+![Image](Images/Dashboard overview.PNG)
 
 Just from the look of this dashboard we note that the average screen time increases the older the children get.
 We also see that the male child has the highest overall screen time.
