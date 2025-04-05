@@ -28,7 +28,6 @@ The dataset reflects realistic behavior patterns, such as:
 ![Dashboard overview](Images/Dashboard overview.PNG)
 Just from the look of this dashboard we note that the average screen time increases the older the children get.
 We also see that the male child has the highest overall screen time.
-https://github.com/Lindawa40/My-Excel-projects/blob/main/Children%20screen%20time%20analysis/Images/5-7%20y-o%20analysis.PNG
 
 ## 📈 Key Insights
 - Teenagers (13–15) spend approximately twice as much screen time as 5-year-olds.
