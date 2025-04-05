@@ -1,4 +1,4 @@
-## An exploratory data analysis and dashboard on children’s screen time patterns.
+## Data analysis on children’s screen time patterns.
 # 📊 Children's Screen Time Dashboard
 
 This project explores real-world trends in children's screen time using a dataset that breaks down 
