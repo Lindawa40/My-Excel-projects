@@ -25,7 +25,7 @@ The dataset reflects realistic behavior patterns, such as:
 - Are there gender-based variations in screen time?
 
 ## 💡 Dashboard Preview
-![Image](Children screen time analysis/Images/Dashboard overview.png)
+![Dashboard overview](Images/Dashboard overview.png)
 
 Just from the look of this dashboard we note that the average screen time increases the older the children get.
 We also see that the male child has the highest overall screen time.
@@ -36,7 +36,7 @@ We also see that the male child has the highest overall screen time.
 - Weekend screen time is 20–30% higher than weekday screen time.
 - **Gender-based variations**:
   - Male children tend to spend more time on **recreational** screen activities.
-![Image](My-Excel-projects/Children screen time analysis/Images/Recreational screentime by gender.PNG)
+![Image](Images/Recreational screentime by gender.PNG)
 
   - Female children spend slightly more time on **educational** screen activities.
 ![Image](My-Excel-projects/Children screen time analysis/Images/Educational screentime by gender.PNG)
