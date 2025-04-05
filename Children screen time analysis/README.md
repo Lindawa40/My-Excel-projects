@@ -41,14 +41,17 @@ We also see that the male child has the highest overall screen time.
 
  - Female children spend slightly more time on **educational** screen activities.
 ![Educational screen time](Images/Educational%20screentime%20by%20gender.PNG)
-  - The **“Other/Prefer not to say”** group shows the highest **weekday-educational** screen time.
- 5-7 year old male children,and 13-15 year old female children show a higher interest in educational screen time 
+  - 5-7 year old male children,and 13-15 year old female children show a higher interest in educational screen time
+    13-15 year old children
 ![13-15 yer old children analysis](Images/13-15y-o%20analysis.PNG)
+5-7 year old chilren
  ![5-7 year old children analysis](Images/5-7%20y-o%20analysis.PNG)
 
-
+Taking a look at all these snippets show one thing in common: A higher average recreational screen time as 
+compared to educational screen time.
 ## Recommendation
-Actively engage high educational screen time among children across all demographics so as to encourage balanced screen time.
+Actively engage high educational screen time among children across all demographics. Maintaining a structured screen time-timetable 
+so as to encourage balanced screen time, as well asenhance productivity and knowledge.
 
 
 **Linda** – Data Analyst in training, passionate about storytelling with data.
