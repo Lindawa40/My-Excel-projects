@@ -26,12 +26,13 @@ The dataset reflects realistic behavior patterns, such as:
 
 ## 💡 Dashboard Preview
 ![Dashboard overview](Images/Dashboard%20overview.PNG)
+
 Just from the look of this dashboard we note that the average screen time increases the older the children get.
 We also see that the male child has the highest overall screen time.
 
 ## 📈 Key Insights
 - Teenagers (13–15) spend approximately twice as much screen time as 5-year-olds, suggesting greater freedom or
-- less structure/supervised time periods among the teenage groups.
+  less structure/supervised time periods among the teenage groups.
 - Recreational time accounts for nearly 75% of total screen time.
 - Weekend screen time is 20–30% higher than weekday screen time.
 - **Gender-based variations**:
@@ -39,7 +40,7 @@ We also see that the male child has the highest overall screen time.
 ![Recreational screen time](Images/Recreational%20screentime%20by%20gender.PNG)
 
  - Female children spend slightly more time on **educational** screen activities.
-![Educational screen time](Images/Educational%20screentime%20by%20gender.png)
+![Educational screen time](Images/Educational%20screentime%20by%20gender.PNG)
   - The **“Other/Prefer not to say”** group shows the highest **weekday-educational** screen time.
  5-7 year old male children,and 13-15 year old female children show a higher interest in educational screen time 
 ![13-15 yer old children analysis](Images/13-15y-o%20analysis.PNG)
