@@ -1,0 +1,48 @@
+## An exploratory data analysis and dashboard on children’s screen time patterns.
+# 📊 Children's Screen Time Dashboard
+
+This project explores real-world trends in children's screen time using a dataset that breaks down 
+**educational** **recreational** screen timefor children aged **5 to 15 years**.
+The data is categorized by **age**, **gender**, and **day type** (Weekday vs. Weekend), and provides insights into 
+screen habits across demographics.
+
+The dataset reflects realistic behavior patterns, such as:
+- Increasing screen time with age
+- Recreational use dominating total screen time
+- Higher usage on weekends than weekdays
+
+## 🛠 Tools Used
+- Microsoft Excel  
+- PivotTables & PivotCharts  
+- Slicers for interactivity  
+- Conditional formatting for emphasis  
+- Basic statistical functions (average)
+
+## 📌 Key Questions Explored
+- How does screen time vary with age?
+- What is the average recreational vs. educational screen time?
+- How do weekends differ from weekdays in screen habits?
+- Are there gender-based variations in screen time?
+
+## 💡 Dashboard Preview
+![Image](Children screen time analysis\Images\Dashboard overview.png)
+Just from the look of this dashboard we note that the average screen time increases the older the children get.
+We also see that the male child has the highest overall screen time.
+
+## 📈 Key Insights
+- Teenagers (13–15) spend approximately twice as much screen time as 5-year-olds.
+- Recreational time accounts for nearly 75% of total screen time.
+- Weekend screen time is 20–30% higher than weekday screen time.
+- **Gender-based variations**:
+  - Male children tend to spend more time on **recreational** screen activities.
+![Image](Children screen time analysis\Images\Recreational screentime by gender.png)
+
+  - Female children spend slightly more time on **educational** screen activities.
+![Image](Children screen time analysis\Images\Educational screentime by gender.png)
+  - The **“Other/Prefer not to say”** group shows the highest **weekday-educational** screen time.
+ 5-7 year old male children,and 13-15 year old female children show a higher interest in educational screen time 
+![Image](Children screen time analysis\Images\13-15y-o analysis.png) ![Image](Children screen time analysis\Images\5-7y-o analysis.png)
+
+
+## 🧠 Author
+**Linda** – Data Analyst in training, passionate about storytelling with data.
